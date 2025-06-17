@@ -12,5 +12,5 @@ PAL formalizes approval processes for:
  Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/author/pal.git
+   git clone https://github.com/Ra7le/PAL.git
    cd pal
