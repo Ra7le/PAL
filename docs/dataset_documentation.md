@@ -108,6 +108,10 @@ Cases were built using a combination of real and synthetic data:
 -   Validation: A subset of real cases was cross-checked against source data to ensure accuracy.
 -   Reproducibility: The PAL calculation script (`pal_calculator.py`) is provided to replicate `pt`, `tt`, and `sd`.
 
+ 3.4 Legal Use Disclaimer
+
+All data was obtained through publicly available means or open datasets. Usage of data from proprietary platforms (e.g., PitchBook, S&P ESG) was limited to inferential parameter estimation and adheres to fair use principles under academic and non-commercial research exemptions. No raw data was copied, embedded, or redistributed. Users are responsible for ensuring compliance if using this dataset in commercial applications.
+
   4. Data Sources
 
 The dataset was informed by the following open and proprietary sources, adhering to transparency standards:
