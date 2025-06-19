@@ -133,6 +133,8 @@ The dataset was informed by the following open and proprietary sources, adhering
 - Access: Sources like Google News and Weibo were accessed via public APIs or web scraping (where permitted) up to June 19, 2025.
 - Transparency: Source abbreviations in the `src` column allow traceability to original data.
 
+
+
    5. Limitations
 
 -   Synthetic Data: While based on real-world templates, many cases are synthetic, which may limit direct applicability to specific projects.
@@ -207,6 +209,8 @@ PAL-Dataset/
 -  README.md:
    PAL-Dataset
   A dataset of 550 case studies applying the Project Approval Law (PAL) framework across infrastructure, ESG, AI/biotech, fintech, and public policy domains.
+
+- This license applies only to the PAL-Dataset and the accompanying documentation/scripts. It does not extend to any third-party datasets, APIs, or platforms referenced or used in parameter estimation. Users must ensure compliance with the terms of such sources separately.
 
    Structure
   -   data/pal_dataset.csv: Main dataset.
