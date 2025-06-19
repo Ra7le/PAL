@@ -1,0 +1,15 @@
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
+The text of the PAL manuscript and its derivative academic materials (including equations, architecture diagrams, documentation, and model descriptions) are licensed under the CC BY-NC-ND 4.0 license.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+
+Under the following terms:
+- Attribution — You must give appropriate credit.
+- NonCommercial — You may not use the material for commercial purposes.
+- NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+For details, see: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+This license does not cover the source code (see LICENSE file under MIT License).
