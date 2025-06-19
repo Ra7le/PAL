@@ -139,5 +139,3 @@ Rassadnev, A. (2025). The Project Approval Law (PAL): A Normative Framework for 
 Email: alexrassxxi@gmail.com  
 Issues and contributions are welcome via GitHub
 ```
-
-This version removes all emojis while preserving the structure and content. Let me know if you need further tweaks!
